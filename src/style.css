@@ -11,16 +11,16 @@ p {
 }
 footer {
   text-align: center;
-  justify-content: space-evenly;
+ 
 }
-footer {
-  display: block;
-  unicode-bidi: isolate;
+footer a {
+  margin : 0 10px;
+
 }
 
 .croissant-photo {
   max-width: 80%;
-  margin: 40px auto;
+  margin: 30px auto;
   display: block;
   border-radius: 10px;
 }
